@@ -11,3 +11,5 @@ These scripts were developed for my PhD into non-enrolment and exclusion from sc
 - Jay MA, Gilbert R. Special educational needs, social care and health. Arch Dis Child doi:10.1136/archdischild-2019-317985. https://adc.bmj.com/content/106/1/83
 
 The scripts were written over the three years of doctoral study and may not be well annotated. Any questions should be directed to me at the above address. Also includes code for new analyses run to carry out post-viva corrections.
+
+Cleared for publication by ONS, STATS17943.
